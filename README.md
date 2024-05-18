@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @LienaRi
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on basicaly any Web project. I'm new in the field!
-- 📫 How to reach me - shoot me a message on Facebook, Twitter, LinkedIn, whatever! 
-- 😄 Pronouns: she/her
+- 👋 Hi, I’m Liena Ritere
+- 👀 I’m interested in Java and Spring Boot
+- 🌱 I’m currently learning Ruby on Rails
+- 📫 https://www.linkedin.com/in/liena-ritere/
 - ⚡ Fun fact: coming to the IT from an Archeology field!
 
